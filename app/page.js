@@ -11,6 +11,7 @@ export default function Home() {
           <Progress />
         </div>
       </div>
+      <div>Hello</div>
       <div className='w-96 m-auto mt-10'>
         <div className='text-center text-bold text-xl'> Auto Carsouel</div>
         <div>
